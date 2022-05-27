@@ -10,3 +10,17 @@ G:\prg\Metody cs9-11\Metody cs9-11\obj\Debug\Metody cs9-11.exe
 G:\prg\Metody cs9-11\Metody cs9-11\obj\Debug\Metody cs9-11.pdb
 G:\prg\Metody cs9-11\Metody cs9-11\obj\Debug\Metody_cs9_11.Form2.resources
 G:\prg\Metody cs9-11\Metody cs9-11\obj\Debug\Metody_cs9_11.Form3.resources
+C:\Users\i5\Source\Repos\metody-cs9-11\Metody cs9-11\Metody cs9-11\bin\Debug\Metody cs9-11.exe.config
+C:\Users\i5\Source\Repos\metody-cs9-11\Metody cs9-11\Metody cs9-11\bin\Debug\Metody cs9-11.exe
+C:\Users\i5\Source\Repos\metody-cs9-11\Metody cs9-11\Metody cs9-11\bin\Debug\Metody cs9-11.pdb
+C:\Users\i5\Source\Repos\metody-cs9-11\Metody cs9-11\Metody cs9-11\obj\Debug\Metody cs9-11.csproj.AssemblyReference.cache
+C:\Users\i5\Source\Repos\metody-cs9-11\Metody cs9-11\Metody cs9-11\obj\Debug\Metody cs9-11.csproj.SuggestedBindingRedirects.cache
+C:\Users\i5\Source\Repos\metody-cs9-11\Metody cs9-11\Metody cs9-11\obj\Debug\Metody_cs9_11.Form1.resources
+C:\Users\i5\Source\Repos\metody-cs9-11\Metody cs9-11\Metody cs9-11\obj\Debug\Metody_cs9_11.Form2.resources
+C:\Users\i5\Source\Repos\metody-cs9-11\Metody cs9-11\Metody cs9-11\obj\Debug\Metody_cs9_11.Form3.resources
+C:\Users\i5\Source\Repos\metody-cs9-11\Metody cs9-11\Metody cs9-11\obj\Debug\Metody_cs9_11.Properties.Resources.resources
+C:\Users\i5\Source\Repos\metody-cs9-11\Metody cs9-11\Metody cs9-11\obj\Debug\Metody cs9-11.csproj.GenerateResource.cache
+C:\Users\i5\Source\Repos\metody-cs9-11\Metody cs9-11\Metody cs9-11\obj\Debug\Metody cs9-11.csproj.CoreCompileInputs.cache
+C:\Users\i5\Source\Repos\metody-cs9-11\Metody cs9-11\Metody cs9-11\obj\Debug\Metody cs9-11.exe
+C:\Users\i5\Source\Repos\metody-cs9-11\Metody cs9-11\Metody cs9-11\obj\Debug\Metody cs9-11.pdb
+C:\Users\i5\Source\Repos\metody-cs9-11\Metody cs9-11\Metody cs9-11\obj\Debug\Metody_cs9_11.Form4.resources

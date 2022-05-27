@@ -20,21 +20,30 @@ namespace Metody_cs9_11
         void Smazani(string text)
         {
             listBox1.Items.Clear();
-           foreach(char s in text)
+            string cisla = "0123456789";
+            while (text.Contains("  "))
             {
-                 if(s>='0'&&s<='9')
-                   
+                text = text.Replace("  ", " ");
+            }
+            foreach (char c in cisla)
+            {
+                if (text.Contains(c)) text = text.Replace(c.ToString(), "");
+            }
+            string[] slova = text.Split(' ');
+            foreach (string slovo in slova)
+            {
+                listBox1.Items.Add(slovo);
             }
         }
         private void button1_Click(object sender, EventArgs e)
         {
             string text = textBox1.Text;
-            while(text=="  ")
-            {
-                text = text.Replace("  ", " ");
-            }
-            string[] slova = text.Split(' ');
             Smazani(text);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Je dán řetězec slov, každé slovo je odděleno jednou nebo více mezerami\nNapište azavolejte metodu, která v řetězci smaže všechny číslice\nŘetězec vypište, každé slovonapište pod sebe do komponenty ListBox.", "INFO", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
