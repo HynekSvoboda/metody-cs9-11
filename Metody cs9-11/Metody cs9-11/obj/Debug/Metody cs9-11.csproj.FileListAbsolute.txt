@@ -1,0 +1,12 @@
+G:\prg\Metody cs9-11\Metody cs9-11\bin\Debug\Metody cs9-11.exe.config
+G:\prg\Metody cs9-11\Metody cs9-11\bin\Debug\Metody cs9-11.exe
+G:\prg\Metody cs9-11\Metody cs9-11\bin\Debug\Metody cs9-11.pdb
+G:\prg\Metody cs9-11\Metody cs9-11\obj\Debug\Metody cs9-11.csprojAssemblyReference.cache
+G:\prg\Metody cs9-11\Metody cs9-11\obj\Debug\Metody_cs9_11.Form1.resources
+G:\prg\Metody cs9-11\Metody cs9-11\obj\Debug\Metody_cs9_11.Properties.Resources.resources
+G:\prg\Metody cs9-11\Metody cs9-11\obj\Debug\Metody cs9-11.csproj.GenerateResource.cache
+G:\prg\Metody cs9-11\Metody cs9-11\obj\Debug\Metody cs9-11.csproj.CoreCompileInputs.cache
+G:\prg\Metody cs9-11\Metody cs9-11\obj\Debug\Metody cs9-11.exe
+G:\prg\Metody cs9-11\Metody cs9-11\obj\Debug\Metody cs9-11.pdb
+G:\prg\Metody cs9-11\Metody cs9-11\obj\Debug\Metody_cs9_11.Form2.resources
+G:\prg\Metody cs9-11\Metody cs9-11\obj\Debug\Metody_cs9_11.Form3.resources
