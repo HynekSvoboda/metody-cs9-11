@@ -43,7 +43,7 @@ namespace Metody_cs9_11
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Je dán řetězec slov, každé slovo je odděleno jednou nebo více mezerami\nNapište azavolejte metodu, která v řetězci smaže všechny číslice\nŘetězec vypište, každé slovonapište pod sebe do komponenty ListBox.", "INFO", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Je dán řetězec slov, každé slovo je odděleno jednou nebo více mezerami\nNapište a zavolejte metodu, která v řetězci smaže všechny číslice\nŘetězec vypište, každé slovo napište pod sebe do komponenty ListBox.", "INFO", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }

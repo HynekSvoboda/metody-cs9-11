@@ -58,7 +58,7 @@ namespace Metody_cs9_11
         }
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Napište metodu JeAlfanum, která pro zadaný řetězec zjistí, zda je alfanumerický(obsahuje pouze písmena a číslice)\nKolik obsahuje malých písmen, kolik obsahujevelkých písmen a kolik obsahuje jiných znaků než alfanumerických.", "INFO", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Napište metodu JeAlfanum, která pro zadaný řetězec zjistí, zda je alfanumerický(obsahuje pouze písmena a číslice)\nKolik obsahuje malých písmen, kolik obsahuje velkých písmen a kolik obsahuje jiných znaků než alfanumerických.", "INFO", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }

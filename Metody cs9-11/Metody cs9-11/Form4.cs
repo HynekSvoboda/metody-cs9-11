@@ -19,37 +19,12 @@ namespace Metody_cs9_11
         }
         int NSD(int a, int b)
         {
-            if (a < b)
+            while (a != b)
             {
-                int h = a;
-                a = b;
-                b = h;
+                if (a > b) a -= b;
+                else b -= a;
             }
-
-            int nsd = 1;
-            for (int i = 2; i <= b; i++)
-            {
-                if (b % i == 0 && a % i == 0)
-                    nsd = i;
-            }
-            return nsd;
-        }
-        int NSN(int a, int b)
-        {
-            if (a < b)
-            {
-                int h = a;
-                a = b;
-                b = h;
-            }
-
-            for (int i = 2; i <= b; i++)
-            {
-                int p = b * i;
-                if (p % a == 0)
-                    return p;
-            }
-            return b * a;
+            return a;
         }
         private bool JePrvocislo(int cislo)
         {
@@ -65,12 +40,32 @@ namespace Metody_cs9_11
             }
             return prvocislo;
         }
+        void Rozklad (int a, ListBox listboxik)
+        {
+            int pomocna = 1;
+            listboxik.Items.Clear();
+            int i = 2;
+            while( i <= a)
+            {
+                if (JePrvocislo(i) == false);
+                while (a % i == 0)
+                {
+                    listboxik.Items.Add(i);
+                    a /= i;
+                }
+                if (i == 3) pomocna = 2;
+                i += pomocna;
+            }
+        }
         private void button1_Click(object sender, EventArgs e)
         {
+           
             int a =(int) numericUpDown1.Value;
             int b = (int)numericUpDown2.Value;
+            Rozklad(a, listBox2);
+            Rozklad(b, listBox1);
             label2.Text = NSD(a, b).ToString();
-            label4.Text = NSN(a, b).ToString();
+            label4.Text =Convert.ToString ((a * b) / NSD(a,b));
         }
 
         private void button2_Click(object sender, EventArgs e)
